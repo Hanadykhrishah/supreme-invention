@@ -1,0 +1,32 @@
+body {
+    color: aquamarine;
+}
+header img {
+    width: 100px;
+}
+header nav {
+    float: right;
+
+}
+header nav ul {
+list-style: none;
+}
+header nav ul li {
+  float: right;
+   padding: 10px;
+  }
+  main img {
+    width: 200px;
+  }
+  main h1 {
+    text-align: center;
+    color:blue;
+
+  }
+  footer {
+    text-align: center;
+    background:pink;
+    color:purple;
+    line-height: 50px
+  }
+  
